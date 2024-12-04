@@ -1,1 +1,3 @@
-# CSE485Lab2
+Đặng Xuân Minh 
+Đinh Gia MInh 
+Trần Tiến Toàn 
